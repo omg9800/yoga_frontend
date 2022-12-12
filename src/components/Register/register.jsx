@@ -109,8 +109,8 @@ function Register() {
             />
           </li>
         </ul>
-        <div className="item">
-          <button className="signup-btn" onClick={addUser}>
+        <div className="submit-btn mr">
+          <button  onClick={addUser}>
             Sign Up
           </button>
         </div>
