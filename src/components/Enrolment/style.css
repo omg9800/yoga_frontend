@@ -1,0 +1,35 @@
+.enrol-container
+{
+    width: 55%;
+    height: 45%;
+    background:linear-gradient(to right,rgba(0,0,0,.7),rgba(0,0,0,.7));
+    margin: 0 auto 5% auto;
+    padding: 3%;
+}
+
+.enrol-container > h3{
+    color: white;
+}
+
+
+.enrol-list-container> .enrolitem{
+    width: 60%;
+    margin: auto;
+}
+
+.enrolitem>select{
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 5px;
+}
+.enrolitem>input,button{
+    width: 85%;
+    padding: 8px;
+    margin-bottom: 5px;
+}
+
+.enrolitem>button{
+    background-color: green;
+    border: none;
+    color: white;
+}

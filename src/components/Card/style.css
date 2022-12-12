@@ -1,0 +1,15 @@
+.card{
+    width: 400px;
+    height: 400;
+    background-color: rgba(0, 0, 0, 0.651);
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 10px;
+    color: white;
+}
+
+.card>p{
+    font-size: 15px;
+    font-weight: 400;
+}

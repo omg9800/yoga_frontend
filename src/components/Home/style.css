@@ -1,0 +1,52 @@
+.home{
+    width:100vw;
+    height: 100vh;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)),url('../../images/yoga-g0cc0e70d0_1920.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* .home>img{
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+
+
+.bold{
+    color: white;
+    font-weight: 500;
+    font-size: 45px;
+}
+
+.semibold{
+    color: white;
+    font-weight: 500;
+    font-size: 21px;
+}
+
+.content{
+    left: 50%;
+    top: 45%;
+    transform: translate(5%,-50%);
+    position: absolute;
+}
+
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.yoga-signin{
+    opacity: 1;
+     color: white;
+     border: 3px solid white;
+     padding: 8px 30px;
+     text-decoration: none;
+
+}
